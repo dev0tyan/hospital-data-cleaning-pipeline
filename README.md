@@ -205,7 +205,7 @@ shapes what kind of downstream project makes sense (see Recommendations).
 ├── src/
 │   └── hospital_cleaning.py       # Reusable pipeline module
 ├── notebooks/
-│   └── 01_eda_and_cleaning.ipynb  # Full build notebook (Kaggle export)
+│   └── data-quality-etl-cleaning-pipeline.ipynb  # Full build notebook (Kaggle export)
 ├── docs/
 │   ├── eda_and_project_strategy.md
 │   └── project1_build_documentation.md
